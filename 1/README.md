@@ -1,7 +1,7 @@
 ### 1차시 실습
 
 1. 1차시 실습에서는 Oracle Live SQL과 PostgreSQL 설치를 진행합니다. 설치 가이드는 다음 파일을 참고하세요:
-    - [LiveSQL 사용 방법](./oracle_live_SQL.pdf)
+    - [LiveSQL 사용 방법](./oracle_live_SQL.md)
     - [PostgreSQL 설치 방법](./postgres_pgadmin_install.pdf)
 
 2. 수업 자료 활용
@@ -9,7 +9,7 @@
     - 다음 파일들을 활용하세요:
         - [1.1 Introduction to DB (LiveSQL)](<./1.1 Introduction to DB (LiveSQL).md>)
         - [1.2 Relational Model (LiveSQL)](<./1.2%20relational%20model%20(LiveSQL).md>)
-    - 위 두 파일은 **scott 스키마가 생성된 상태를 가정합니다**. 따라서, scott.sql 실행 후 실습파일의 내용을 따라해보시면 됩니다.
+    - 위 두 파일은 **scott 스키마가 생성된 상태를 가정합니다**. 따라서, scott.md 실행 후 실습파일의 내용을 따라해보시면 됩니다.
 
 
 

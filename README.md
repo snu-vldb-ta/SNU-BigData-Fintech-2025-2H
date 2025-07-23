@@ -14,7 +14,7 @@
 
   | Link                                                                                  | Desc          |
   | ------------------------------------------------------------------------------------- | ------------- |
-  | [LiveSQL 사용 방법](./1/oracle_live_SQL.pdf)                                          | 실습          |
+  | [LiveSQL 사용 방법](./1/oracle_live_SQL.md)                                          | 실습          |
   | [PostgreSQL 설치 방법](./1/postgres_pgadmin_install.pdf)                              | 실습          |
   | [scott.sql](./1/scott.sql)                                                            | 실습          |
   | [1.1 Introduction to DB (LiveSQL)](<./1/1.1%20Introduction%20to%20DB%20(LiveSQL).md>) | 수업 보충자료 |
