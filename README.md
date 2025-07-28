@@ -21,3 +21,14 @@
   | [1.2 Relational Model (LiveSQL)](<./1/1.2%20relational%20model%20(LiveSQL).md>)       | 수업 보충자료 |
 
 <br/>
+
+
+#### 2차시 (2025.07.28)
+- 실습 파일
+
+  | Link                                                                                  | Desc          |
+  | ------------------------------------------------------------------------------------- | ------------- |
+  | [2.1 Relational Algebra (LiveSQL)](<./2/2.1 relational algebra.md>) | 수업 보충자료 |
+  | [2.2 Basic SQL (LiveSQL)](<./2/2.2 basic sql.md>)       | 수업 보충자료 |
+
+<br/>
