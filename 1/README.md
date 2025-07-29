@@ -10,6 +10,7 @@
         - [1.1 Introduction to DB (LiveSQL)](<./1.1 Introduction to DB (LiveSQL).md>)
         - [1.1 Introduction to DB (LiveSQL) with results](<./1.1 Introduction to DB (LiveSQL)_with_results.md>)        
         - [1.2 Relational Model (LiveSQL)](<./1.2%20relational%20model%20(LiveSQL).md>)
+        - [1.2 Relational Model (LiveSQL) with results](<./1.2%20relational%20model%20(LiveSQL)_with_results.md>)
     - 위 두 파일은 **scott 스키마가 생성된 상태를 가정합니다**. 따라서, scott.md 실행 후 실습파일의 내용을 따라해보시면 됩니다.
 
 
