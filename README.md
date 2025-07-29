@@ -18,7 +18,9 @@
   | [PostgreSQL 설치 방법](./1/postgres_pgadmin_install.pdf)                              | 실습          |
   | [scott.sql](./1/scott.md)                                                            | 실습          |
   | [1.1 Introduction to DB (LiveSQL)](<./1/1.1%20Introduction%20to%20DB%20(LiveSQL).md>) | 수업 보충자료 |
+  | [1.1 Introduction to DB (LiveSQL) with results](<./1/1.1%20Introduction%20to%20DB%20(LiveSQL)_with_results.md>) | 수업 보충자료 |
   | [1.2 Relational Model (LiveSQL)](<./1/1.2%20relational%20model%20(LiveSQL).md>)       | 수업 보충자료 |
+  | [1.2 Relational Model (LiveSQL) with results](<./1/1.2%20relational%20model%20(LiveSQL)_with_results.md>)       | 수업 보충자료 |
 
 <br/>
 
@@ -34,3 +36,5 @@
   | [2.2 Basic SQL (LiveSQL)](<./2/2.2 basic sql.md>)       | 수업 보충자료 |
 
 <br/>
+
+#### 3차시 (2025.07.31)
