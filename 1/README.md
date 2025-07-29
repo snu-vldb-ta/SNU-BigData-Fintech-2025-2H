@@ -8,6 +8,7 @@
     - 교수님께서 수업시간에 사용하시는 SQL문은 Oracle 환경을 기준으로 작성되었으나, Oracle LiveSQL 환경에서 실행할 수 있도록 LiveSQL 버전의 SQL 파일로 변환하여 제공합니다.
     - 다음 파일들을 활용하세요:
         - [1.1 Introduction to DB (LiveSQL)](<./1.1 Introduction to DB (LiveSQL).md>)
+        - [1.1 Introduction to DB (LiveSQL) with results](<./1.1 Introduction to DB (LiveSQL)_with_results.md>)        
         - [1.2 Relational Model (LiveSQL)](<./1.2%20relational%20model%20(LiveSQL).md>)
     - 위 두 파일은 **scott 스키마가 생성된 상태를 가정합니다**. 따라서, scott.md 실행 후 실습파일의 내용을 따라해보시면 됩니다.
 
