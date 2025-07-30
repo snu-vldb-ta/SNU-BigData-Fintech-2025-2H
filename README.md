@@ -41,3 +41,11 @@
 <br/>
 
 #### 3차시 (2025.07.31)
+- [3차시 실습 설명](./3/README.md)
+
+- 실습파일
+
+  | Link                                                                                  | Desc          |
+  | ------------------------------------------------------------------------------------- | ------------- |
+  | [3.1 (Advanced SQL) Cube (LiveSQL)](<./3/3.1 (Advanced SQL) Cube (LiveSQL).md>) | 수업 보충자료 |
+  | [3.1 (Advanced SQL) Cube (LiveSQL)_with_results](<./3/3.1 (Advanced SQL) Cube (LiveSQL)_with_results.md>) | 수업 보충자료 |
