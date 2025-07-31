@@ -49,3 +49,5 @@
   | ------------------------------------------------------------------------------------- | ------------- |
   | [3.1 (Advanced SQL) Cube (LiveSQL)](<./3/3.1 (Advanced SQL) Cube (LiveSQL).md>) | 수업 보충자료 |
   | [3.1 (Advanced SQL) Cube (LiveSQL)_with_results](<./3/3.1 (Advanced SQL) Cube (LiveSQL)_with_results.md>) | 수업 보충자료 |
+  | [NL2SQL pdf](./3/NL2SQL.pdf) | 실습 |
+  | [NL2SQL practice](./3/NL2SQL_Practice.ipynb) | 실습 |
