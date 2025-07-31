@@ -7,3 +7,4 @@
 2. NL2SQL 실습
     - [NL2SQL pdf](./NL2SQL.pdf)
     - [NL2SQL practice](./NL2SQL_Practice.ipynb)
+    - [NL2SQL practice 2](./NL2SQL_Practice2.ipynb)
