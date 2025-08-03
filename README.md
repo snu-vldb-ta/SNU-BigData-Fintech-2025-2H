@@ -72,6 +72,6 @@
 
   | Link                                                                                  | Desc          |
   | ------------------------------------------------------------------------------------- | ------------- |
-  | [5.1 b-tree index vs. full table scan (LiveSQL)](<>) | 수업 보충자료 |
+  | [5.1 b-tree index vs. full table scan (LiveSQL)](<./5/5.1 b-tree index vs. full table scan (LiveSQL).md>) | 수업 보충자료 |
   | [5.2 query processing](<>) | 수업 보충자료 |
-  | [5.3 transaction and concurrency control (LiveSQL)](<>) | 수업 보충자료 |
+  | [5.3 transaction and concurrency control (Oracle)](<./5/5.3 transaction and concurrency control (Oracle).md>) | 수업 보충자료 |
