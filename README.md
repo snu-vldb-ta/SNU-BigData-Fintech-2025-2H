@@ -52,3 +52,26 @@
   | [NL2SQL pdf](./3/NL2SQL.pdf) | 실습 |
   | [NL2SQL practice](./3/NL2SQL_Practice.ipynb) | 실습 |
   | [NL2SQL practice 2](./3/NL2SQL_Practice2.ipynb) | 실습 | 
+
+<br/>
+
+#### 4차시 (2025.08.03)
+- [4차시 실습 설명](./4/README.md)
+
+- 실습파일
+
+  | Link                                                                                  | Desc          |
+  | ------------------------------------------------------------------------------------- | ------------- |
+  | [4.2 (IO) Physical storage of relations and access methods (Oracle)](<./4/4.2 (IO) Physical storage of relations and access methods (Oracle).md>) | 수업 보충자료 |
+
+
+#### 5차시 (2025.08.04)
+- [5차시 실습 설명](./5/README.md)
+
+- 실습파일
+
+  | Link                                                                                  | Desc          |
+  | ------------------------------------------------------------------------------------- | ------------- |
+  | [5.1 b-tree index vs. full table scan (LiveSQL)](<>) | 수업 보충자료 |
+  | [5.2 query processing](<>) | 수업 보충자료 |
+  | [5.3 transaction and concurrency control (LiveSQL)](<>) | 수업 보충자료 |
