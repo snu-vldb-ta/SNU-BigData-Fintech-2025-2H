@@ -55,7 +55,7 @@
 
 <br/>
 
-#### 4차시 (2025.08.03)
+#### 4차시 (2025.08.04)
 - [4차시 실습 설명](./4/README.md)
 
 - 실습파일
@@ -63,9 +63,14 @@
   | Link                                                                                  | Desc          |
   | ------------------------------------------------------------------------------------- | ------------- |
   | [4.2 (IO) Physical storage of relations and access methods (Oracle)](<./4/4.2 (IO) Physical storage of relations and access methods (Oracle).md>) | 수업 보충자료 |
+  | [VectorDB + RAG pdf file](./5/vectordb+rag.pdf) | 실습
+  | [chromadb_getting_started.ipynb](<./5/chromadb_getting_started.ipynb>) | 실습 |
+  | [chromadb_RA.ipynb](<./5/chromadb_RAG.ipynb>) | 실습 |
+  | [QAbot_RAG.ipynb](<./5/QAbot_RAG.ipynb>)  | 실습 |
+  | [QAbot_RAG - data](<./5/data.zip>)  | 실습 |
 
 
-#### 5차시 (2025.08.04)
+#### 5차시 (2025.08.05)
 - [5차시 실습 설명](./5/README.md)
 
 - 실습파일
@@ -75,8 +80,5 @@
   | [5.1 b-tree index vs. full table scan (LiveSQL)](<./5/5.1 b-tree index vs. full table scan (LiveSQL).md>) | 수업 보충자료 |
   | [5.2 query processing](<./5/5.2 query processing (LiveSQL).md>) | 수업 보충자료 |
   | [5.3 transaction and concurrency control (Oracle)](<./5/5.3 transaction and concurrency control (Oracle).md>) | 수업 보충자료 |
-  | [chromadb_getting_started.ipynb](<./5/chromadb_getting_started.ipynb>) | 실습 |
-  | [chromadb_RA.ipynb](<./5/chromadb_RAG.ipynb>) | 실습 |
-  | [QAbot_RAG.ipynb](<./5/QAbot_RAG.ipynb>)  | 실습 |
-  | [QAbot_RAG - data](<./5/data.zip>)  | 실습 |
+
 
