@@ -75,3 +75,8 @@
   | [5.1 b-tree index vs. full table scan (LiveSQL)](<./5/5.1 b-tree index vs. full table scan (LiveSQL).md>) | 수업 보충자료 |
   | [5.2 query processing](<./5/5.2 query processing (LiveSQL).md>) | 수업 보충자료 |
   | [5.3 transaction and concurrency control (Oracle)](<./5/5.3 transaction and concurrency control (Oracle).md>) | 수업 보충자료 |
+  | [chromadb_getting_started.ipynb](<./5/chromadb_getting_started.ipynb>) | 실습 |
+  | [chromadb_RA.ipynb](<./5/chromadb_RAG.ipynb>) | 실습 |
+  | [QAbot_RAG.ipynb](<./5/QAbot_RAG.ipynb>)  | 실습 |
+  | [QAbot_RAG - data](<./5/data.zip>)  | 실습 |
+
